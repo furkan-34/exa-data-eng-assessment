@@ -6,7 +6,7 @@ Anybody can run the program through python commands or using docker commands.
 * Do not forget to activate your virtual environment for python commands
 #### Python:
 ```
-pip install -r requirements
+pip install -r requirements.txt
 python run main.py
 ```
 #### Docker:
